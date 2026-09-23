@@ -18,5 +18,5 @@ export default defineConfig({
             '@': path.resolve(__dirname, './src'),
         },
     },
-    base: '/qbits/chartdb/'
+    base: '/qbits/chartdb/',
 });
